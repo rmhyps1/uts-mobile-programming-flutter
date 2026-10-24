@@ -1,0 +1,11 @@
+{
+  "name": "Katalog Resep Kuliner",
+  "short_name": "ResepKuliner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#E25822",
+  "description": "Aplikasi Resep Kuliner UTS Pemrograman Mobile",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
